@@ -1,0 +1,57 @@
+/* Navbar */
+.lead {
+  font-size: 1.5em;
+}
+
+
+
+/* How does it work section */
+.fa-download {
+    color: #009973;
+  }
+
+  .fa-cut {
+    color: #009973;
+  }
+
+  .fa-user {
+    color: #009973;
+  }
+
+  .fa-pencil-alt {
+    color: #009973;
+  }
+
+  #color .text_color {
+    color: pink;
+  }
+
+
+
+/* jumbotrons style */
+  #section-header {
+    background-color: #eee;
+    padding: 30px 0;
+  }
+
+  #section-header .text_color {
+    color: pink;
+  }
+
+
+
+  /* 4 Cards section */
+  .card .card-body p {
+    height: 255px;
+  }
+
+
+
+/* About my shop section */
+  #visitbutton a {
+    color: #fff;
+  }
+
+  #visitbutton a:hover {
+    text-decoration: none;
+  }
