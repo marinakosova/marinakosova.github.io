@@ -29,12 +29,12 @@
 
 
 /* jumbotrons style */
-  #section-header {
+  .section-header {
     background-color: #eee;
     padding: 30px 0;
   }
 
-  #section-header .text_color {
+  .section-header .text_color {
     color: pink;
   }
 
